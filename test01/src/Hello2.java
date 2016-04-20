@@ -5,5 +5,6 @@ public class Hello2 {
     System.out.println("Hello!");
     System.out.println("Okok");
     System.out.println("Nono");
+    System.out.println("되는가?");
   }
 }
